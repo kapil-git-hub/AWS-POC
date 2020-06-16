@@ -54,6 +54,7 @@ These AWS Services are being used in this web application.
 -	AWS Security Groups
 
 ## Architecture:
+![Architecture of AWS](aws-architecture.png)
  
 ## Achieved desired benefits:
 -	High Availability
