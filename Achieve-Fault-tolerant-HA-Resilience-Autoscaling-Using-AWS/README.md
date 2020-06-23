@@ -1,4 +1,4 @@
-# Achieve Fault tolerant, HA, Resilience and Auto scaling using AWS services in application
+# Achieve Fault tolerant, HA, Resilience, Load balancing and Auto scaling using AWS services in application
 
 ## Use case: 
 We have a web application and want to achieve High availability, Fault tolerance, Auto scaling and load balancing using AWS cloud provider’s services.
